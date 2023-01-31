@@ -24,8 +24,8 @@ function App() {
 </svg>
 <h1 className="font-primary text-xl lg:text-[16px] text-[#ECF0FF] font-bold absolute top-[20px] left-[135px] lg:top-[167px] lg:left-[120px]">Trending Assets</h1>
 </div>
-<div className="flex flex-col gap-y-4 absolute top-[200px] lg:top-[200px] 
-lg:flex-row lg:gap-x-12 bg-[#14172B] left-[150px] lg:left-[80px]">
+<div className="flex flex-col gap-y-4 absolute top-[100px] lg:top-[200px] 
+lg:flex-row lg:gap-x-12 bg-[#14172B] left-[110px] lg:left-[80px]">
   <Card 
   title1="Bitcoin (BTC)"
   title2="Price"
