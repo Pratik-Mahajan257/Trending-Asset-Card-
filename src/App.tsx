@@ -7,7 +7,7 @@ import  sol  from '../src/img/Solana.png';
 
 function App() {
   return (
-<div className=" bg-[#14172B] w-full  h-[2550px] lg:h-screen  relative">
+<div className=" bg-[#14172B] w-[1900px]  h-[2550px] lg:h-screen  relative">
     <div className="relative h-screem w-screen"> 
       <svg 
       className="absolute top-[25px] left-[100px]
@@ -24,8 +24,8 @@ function App() {
 </svg>
 <h1 className="font-primary text-xl lg:text-[16px] text-[#ECF0FF] font-bold absolute top-[20px] left-[135px] lg:top-[167px] lg:left-[120px]">Trending Assets</h1>
 </div>
-<div className="flex flex-col gap-y-4 absolute top-[200px] lg:top-[250px] 
-lg:flex-row lg:gap-x-12 bg-[#14172B] left-[150px] lg:left-[110px]">
+<div className="flex flex-col gap-y-4 absolute top-[200px] lg:top-[200px] 
+lg:flex-row lg:gap-x-12 bg-[#14172B] left-[150px] lg:left-[80px]">
   <Card 
   title1="Bitcoin (BTC)"
   title2="Price"
